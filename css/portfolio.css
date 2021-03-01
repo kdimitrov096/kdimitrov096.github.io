@@ -1,6 +1,6 @@
 /* PORTFOLIO SECTION */
 
-.my-work
+.my-projects
 {
     background-color: #111;
     color: var(--clr-light);
@@ -16,8 +16,10 @@
 
 .portfolio__item
 {
-    background: var(--clr-acccent);
+    background: var(--clr-dark);
     overflow: hidden;
+    margin: 12px;
+    padding: 24px;
 }
 
 .portfolio__img
