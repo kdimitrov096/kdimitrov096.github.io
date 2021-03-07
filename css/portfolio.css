@@ -67,7 +67,7 @@
 
     .portfolio-item-individual a
     {
-        position:absolute;
+        position: relative;
     }
 
     .portfolio-item-individual img
@@ -87,7 +87,7 @@
     
     .portfolio-item-individual a
     {
-        position:absolute;
+        position: relative;
     }
 
     .portfolio-item-individual img
