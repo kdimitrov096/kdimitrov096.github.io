@@ -60,10 +60,14 @@
 
 @media (min-width: 600px) 
 {
+    .portfolio-item-individual .wrapper
+    {
+        text-align: center;
+    }
+
     .portfolio-item-individual a
     {
-        position:relative;
-        margin-left: 12%;
+        position:absolute;
     }
 
     .portfolio-item-individual img
@@ -76,6 +80,16 @@
 
 @media (max-width: 600px) 
 {
+    .portfolio-item-individual .wrapper
+    {
+        text-align: center;
+    }
+    
+    .portfolio-item-individual a
+    {
+        position:absolute;
+    }
+
     .portfolio-item-individual img
     {
         max-width: 300px;
