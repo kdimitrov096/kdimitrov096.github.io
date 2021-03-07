@@ -57,7 +57,7 @@
     margin-right: auto;
 }
 
-/* @media (min-width: 600px) 
+@media (min-width: 600px) 
 {
     .portfolio-item-individual a
     {
@@ -69,8 +69,7 @@
     .portfolio-item-individual img
     {
         max-width: 500px;
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 12%;
     }
 }
 
@@ -82,4 +81,4 @@
         margin-left: auto;
         margin-right: auto;
     }
-} */
+}
