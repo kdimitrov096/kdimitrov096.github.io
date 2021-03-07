@@ -56,3 +56,11 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.portfolio-item-individual a,
+.portfolio-item-individual img
+{
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
