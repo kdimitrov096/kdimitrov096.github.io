@@ -58,18 +58,18 @@
     margin-right: auto;
 }
 
+.portfolio-item-individual .wrapper
+{
+    text-align: center;
+}
+
+.portfolio-item-individual a
+{
+    position: relative;
+}
+
 @media (min-width: 600px) 
 {
-    .portfolio-item-individual .wrapper
-    {
-        text-align: center;
-    }
-
-    .portfolio-item-individual a
-    {
-        position: relative;
-    }
-
     .portfolio-item-individual img
     {
         max-width: 500px;
@@ -80,16 +80,6 @@
 
 @media (max-width: 600px) 
 {
-    .portfolio-item-individual .wrapper
-    {
-        text-align: center;
-    }
-    
-    .portfolio-item-individual a
-    {
-        position: relative;
-    }
-
     .portfolio-item-individual img
     {
         max-width: 300px;
