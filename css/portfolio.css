@@ -90,6 +90,7 @@
 }
 .gif-conainer
 {
+    justify-content: center;
     width: 128px;
     height: 128px;
     overflow: hidden;
@@ -97,7 +98,9 @@
 
 .ss-filmstrip
 {
-    width: 8192px;
+    position:relative;
+    margin: 0 auto;
+    width: 128px;
     height: 128px;
     background: url("https://kdimitrov096.github.io/img/portfolio/spaceship_rotating_fs.png") no-repeat;
     animation: animateGif 15s steps(64) infinite;
